@@ -3,7 +3,7 @@ public class Konstanta {
     
     //Konstanta: pakai kata final
     final double USER = 3.478;
-    final int NIM = "002026";
+    final String NIM = "D002026";
     final String PRODI = "Informatika";
 
     // Tampilkan nilainya
