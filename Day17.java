@@ -11,6 +11,6 @@ class molee {
   E *= 333; //perkalian 
   int F = 999;
   F %= 333; //modulus
-  System.out.printf("A/t:%d%nB/t:%d%nC/t:%d%nD/t:%d%nE/t:%d%nF/t:%d",A,B,C,D,E,F);
+  System.out.printf("A\t:%d%nB\t:%d%nC\t:%d%nD\t:%d%nE\t:%d%nF\t:%d",A,B,C,D,E,F);
   }
 } 
