@@ -5,5 +5,6 @@ Scanner in = new Scanner (System.in);
 int a = in.nextInt();
 int b = in.nextInt();
 System.out.printf("Hasill\t:%d",(a>=b));
+System.out.printf("Hasill\t:%d",(a<=b));
 }
 }
