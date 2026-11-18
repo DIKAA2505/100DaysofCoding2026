@@ -19,7 +19,7 @@ class Day78 {
       String pMasuk = input.nextLine().trim();
       
       
-      if (mMasuk.equals(nama) && pMasuk.equals(sandi)) {
+      if (nMasuk.equals(nama) && pMasuk.equals(sandi)) {
         berhasil = true;
         System.out.println("Selamat datang! login berhasil ");
       } else {
